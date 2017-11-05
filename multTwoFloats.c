@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+	double firstNumber, secondNumber, product;
+
+	scanf("%lf %lf", &firstNumber, &secondNumber);
+
+	product = firstNumber*secondNumber;
+
+	printf("%.2lf", product);
+}
