@@ -21,5 +21,5 @@ int main() {
 		printf("%d is not a palindrome", oN);
 	}
 
-
+	return 0;
 }
